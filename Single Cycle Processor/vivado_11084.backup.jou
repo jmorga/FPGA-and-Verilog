@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Sep 21 17:50:22 2019
+# Process ID: 11084
+# Current directory: C:/Users/joemo/Desktop/Single-cycle Processor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5940 C:\Users\joemo\Desktop\Single-cycle Processor\Single-cycle Processor.xpr
+# Log file: C:/Users/joemo/Desktop/Single-cycle Processor/vivado.log
+# Journal file: C:/Users/joemo/Desktop/Single-cycle Processor\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/joemo/Desktop/Single-cycle Processor/Single-cycle Processor.xpr}
+update_compile_order -fileset sources_1

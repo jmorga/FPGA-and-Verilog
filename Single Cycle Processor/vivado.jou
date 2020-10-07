@@ -1,0 +1,51 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Sep 26 11:04:24 2019
+# Process ID: 8732
+# Current directory: C:/Users/Joseph Morga/Desktop/Single-cycle Processor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11204 C:\Users\Joseph Morga\Desktop\Single-cycle Processor\Single-cycle Processor.xpr
+# Log file: C:/Users/Joseph Morga/Desktop/Single-cycle Processor/vivado.log
+# Journal file: C:/Users/Joseph Morga/Desktop/Single-cycle Processor\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Joseph Morga/Desktop/Single-cycle Processor/Single-cycle Processor.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source tb_SingleCycle.tcl
+relaunch_sim
+close_sim
+launch_simulation
+source tb_SingleCycle.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+close_sim
+launch_simulation
+source tb_SingleCycle.tcl
+relaunch_sim
+relaunch_sim
+close_sim
+launch_simulation
+source tb_SingleCycle.tcl
+relaunch_sim
+relaunch_sim
+close_sim
+launch_simulation
+source tb_SingleCycle.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+run 500 ns
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+close_sim
